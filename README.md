@@ -1,2 +1,6 @@
-# pygui
-A script hub. Only for Roblox exploiting.
+# PYGui - A roblox script hub
+
+! - CURRENTLY DEVELOPING - DEV VERSIONS ARE FOR YOU SUPPORTED
+! - SORRY FOR MY BAD ENGLISH
+
+
